@@ -1,11 +1,11 @@
  a {
 
-    color: #DCDCDC;
+    color: Azure;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 4px 4px 0 0;
 }
 
 a:hover {
-    color: Azure;
+    color: #99CCFF;
 }
