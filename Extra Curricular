@@ -43,12 +43,14 @@ text-shadow: 4px 4px 4px #aaa;
 
   <body>
     <center>
-<div> About my Education</div>
+<div> About my Extra Curricular</div>
     </center>
     <text align="left">
-      <h6> I go to NFA North, and I am in Excelsior Academy. I'm in
-tenth grade, and I like it. I am taking 2 college courses in my grade, with a few other people.  </h6>
+      <h6>I stay after school for track. I play soccer too. I also take an interest in the robotics club.</h6>
     </text>
+    <center>
+      <img src="http://maxpreps.cbsistatic.com/includes/images/photo/enlarge.gif"
+    </center>
 </body>
 
 </html>
