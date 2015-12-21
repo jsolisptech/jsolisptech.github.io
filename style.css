@@ -11,8 +11,7 @@ text-shadow: 4px 4px 4px #aaa;
   height: 98px;
   padding-top: 6px;
   position: relative;
-  width: 940px;
-  z-index: 100;
+  width: 2em;
 }
 
 a:link{
