@@ -8,10 +8,11 @@ text-shadow: 4px 4px 4px #aaa;
 
 .navbar{
   float: left;
-  height: 98px;
-  padding-top: 6px;
+  height: 20px;
+  padding-top: 1.5em;
   position: relative;
   width: 2em;
+  text-align: center;
 }
 
 a:link{
