@@ -19,13 +19,11 @@ a:link{
   font-size: 1.5em;
 }
 
-.navbar li{
-  display:block;
+.navbar li {
   float: left;
   position: relative;
-  width: 7.8em;
+  width: 2.0em;
   text-align: center;
-  list-style: none;
   padding-left: 0;
   margin: 0;
 }
@@ -40,10 +38,9 @@ a:link{
   position: absolute;
   height: auto;
   width: 150px;
-  font-family: 'Rock Salt';
+  font-family: 'Architects Daughter';
   color: white;
   position: absolute;
   margin-left: 34.1em;
   margin-top: 4em;
-  z-index: 1;
 }
