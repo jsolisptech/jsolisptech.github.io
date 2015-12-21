@@ -9,10 +9,13 @@ text-shadow: 4px 4px 4px #aaa;
 .navbar{
   float: left;
   height: 20px;
-  padding-top: 1.5em;
   position: relative;
-  width: 2em;
   text-align: center;
+  background-color: black;
+  color: white;
+  font-family: 'Architects Daughter', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
 }
 
 a:link{
@@ -32,17 +35,12 @@ a:link{
 
 .dropdown-menu{
   list-style: none;
-  background-color: black;
-  opacity: .8
-  border: 2px solid white;
+
   text-align: center;
   padding: 1em;
   position: absolute;
   height: auto;
   width: 150px;
-  font-family: 'Architects Daughter';
-  color: white;
   position: absolute;
-  margin-left: 34.1em;
-  margin-top: 4em;
+
 }
