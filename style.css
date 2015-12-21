@@ -7,10 +7,12 @@ text-shadow: 4px 4px 4px #aaa;
 }
 
 .navbar{
-  display: inline;
-  padding: 0;
-  margin: 0;
-  position: absolute;
+  float: left;
+  height: 98px;
+  padding-top: 6px;
+  position: relative;
+  width: 940px;
+  z-index: 100;
 }
 
 a:link{
