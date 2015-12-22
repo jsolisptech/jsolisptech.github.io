@@ -25,7 +25,7 @@ nav ul ul {
   	padding: 10px;
   	border-radius: 5px;
 	  list-style: none;
-	  position: static;
+	  position: absolute;
 	  display: inline-table;
 }
 	nav ul:after {
