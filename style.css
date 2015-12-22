@@ -27,7 +27,7 @@ nav ul ul {
 }
 	nav ul:after {
 		content: ""; clear: both; display: block;
-		border-radius: 40%;
+		border-radius: 30%;
 	}
 
   nav ul li {
