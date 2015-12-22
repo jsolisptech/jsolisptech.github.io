@@ -18,9 +18,7 @@ nav ul ul {
 
   nav ul {
     background: #efefef;
-  	background: none;
-  	background: none;
-    box-shadow: 0px 0px 4.5px rgba(0,0,0,0.15);
+    box-shadow: 5px 0px 4.5px rgba(0,0,0,0.15);
   	padding: 10px;
   	border-radius: 5px;
 	  list-style: none;
