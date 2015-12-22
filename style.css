@@ -21,10 +21,12 @@ nav ul ul {
   	background: linear-gradient(top, #efefef 0%, #bbbbbb 100%);
   	background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%);
   	background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 100%);
-
-	list-style: none;
-	position: absolute;
-	display: inline-table;
+    box-shadow: none
+  	padding: 0 5px;
+  	border-radius: 5px;
+	  list-style: none;
+	  position: absolute;
+	  display: inline-table;
 }
 	nav ul:after {
 		content: ""; clear: both; display: block;
