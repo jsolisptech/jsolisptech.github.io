@@ -17,10 +17,11 @@ nav ul ul {
 	}
 
   nav ul {
-	
-	box-shadow: 0px 0px 4.5px rgba(0,0,0,0.15);
-	padding: 0 5px;
-	border-radius: 5px;
+    background: #efefef;
+  	background: linear-gradient(top, #efefef 0%, #bbbbbb 100%);
+  	background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%);
+  	background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 100%);
+
 	list-style: none;
 	position: absolute;
 	display: inline-table;
