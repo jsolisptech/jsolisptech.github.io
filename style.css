@@ -24,7 +24,7 @@ nav ul ul {
 	  list-style: none;
 	  position: absolute;
 	  display: inline-table;
-		margin: auto;
+		margin: 1em;
 }
 	nav ul:after {
 		content: ""; clear: both;
