@@ -18,9 +18,9 @@ nav ul ul {
 
   nav ul {
     background: #efefef;
-    box-shadow: 5px 0px 4.5px rgba(0,0,0,0.15);
+    box-shadow: 0px 0px 4.5px rgba(0,0,0,0.15);
   	padding: 10px;
-  	border-radius: 5px;
+  	border-radius: 40%;
 	  list-style: none;
 	  position: absolute;
 	  display: inline-table;
