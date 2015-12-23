@@ -12,7 +12,8 @@ $('.dropdown-menu').toggle();
 
 
     $('.dropdown-menu').hide();
-}
+
 
 });
+}
 $(document).ready(main);
