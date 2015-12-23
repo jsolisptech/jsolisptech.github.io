@@ -2,7 +2,7 @@ body {
 background-color: black;
 color: white;
 font-family: 'Architects Daughter', serif;
-font-size: 30px;
+font-size: 22px;
 text-shadow: 4px 4px 4px #aaa;
 }
 
@@ -22,18 +22,21 @@ text-shadow: 4px 4px 4px #aaa;
   position: relative;
   float: left;
   background-color: inherit;
-  width:8.35em;
+  width:11.15em;
 }
 
 .dropdown-menu{
+  position: absolute;
   padding:0px;
   margin:0px;
   text-align: center;
 }
 
 .navbar li ul li{
-  border: 2px solid black;
-	background-color: inherit;
+  border: 1px solid black;
+	background-color: white;
+  opacity: .9;
+  display: block;
 }
 
 
