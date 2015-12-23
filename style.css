@@ -2,7 +2,7 @@ body {
 background-color: black;
 color: white;
 font-family: 'Architects Daughter', serif;
-font-size: 15px;
+font-size: 30px;
 text-shadow: 4px 4px 4px #aaa;
 }
 
@@ -32,6 +32,7 @@ text-shadow: 4px 4px 4px #aaa;
 }
 
 .navbar li ul li{
+  display: hide;
   border: 1px solid black;
 	background-color: inherit;
 }
@@ -42,13 +43,13 @@ text-shadow: 4px 4px 4px #aaa;
 a:link, a:visited{
   text-decoration: none;
   color:black;
-  font-size: 1.5em;
+  font-size: 1.7em;
   font-family: 'Architects Daughter', serif;
 }
 
 a:hover{
   text-decoration: none;
   color:gray;
-  font-size: 1.5em;
+  font-size: 1.7em;
   font-family: 'Architects Daughter', serif;
 }
