@@ -8,7 +8,7 @@ text-shadow: 4px 4px 4px #aaa;
 
 .navbar{
   display: inline-block;
-  position: relative;
+  position: absolute;
   padding: 0px;
   margin:0px;
   text-align: center;
@@ -32,8 +32,7 @@ text-shadow: 4px 4px 4px #aaa;
 }
 
 .navbar li ul li{
-  display: hide;
-  border: 1px solid black;
+  border: none solid black;
 	background-color: inherit;
 }
 
