@@ -2,7 +2,7 @@ body {
 background-color: black;
 color: white;
 font-family: 'Architects Daughter', serif;
-font-size: 48px;
+font-size: 15px;
 text-shadow: 4px 4px 4px #aaa;
 }
 
@@ -22,7 +22,7 @@ text-shadow: 4px 4px 4px #aaa;
   position: relative;
   float: left;
   background-color: inherit;
-  width:5.15em;
+  width:10.15em;
 }
 
 .dropdown-menu{
