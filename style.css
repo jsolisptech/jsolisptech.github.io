@@ -22,7 +22,7 @@ text-shadow: 4px 4px 4px #aaa;
   position: relative;
   float: left;
   background-color: inherit;
-  width:2.15em;
+  width:13.15em;
 }
 
 .dropdown-menu{
@@ -42,13 +42,13 @@ text-shadow: 4px 4px 4px #aaa;
 a:link, a:visited{
   text-decoration: none;
   color:black;
-  font-size: 2.7em;
+  font-size: 1.5em;
   font-family: 'Architects Daughter', serif;
 }
 
 a:hover{
   text-decoration: none;
-  color:gold;
-  font-size: 2.7em;
+  color:gray;
+  font-size: 1.5em;
   font-family: 'Architects Daughter', serif;
 }
