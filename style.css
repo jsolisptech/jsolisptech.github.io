@@ -48,7 +48,7 @@ a:link, a:visited{
 
 a:hover{
   text-decoration: none;
-  color:gray;
+  color: #FF00FF;
   font-size: 1.7em;
   font-family: 'Architects Daughter', serif;
 }
