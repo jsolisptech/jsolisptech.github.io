@@ -9,4 +9,4 @@ var main = function(){
 
   $('.dropdown-menu').hide();
 }
-(document).ready(main);
+$(document).ready(main);
